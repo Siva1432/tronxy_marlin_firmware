@@ -142,9 +142,8 @@ Proposed patches should be submitted as a Pull Request against the ([bugfix-2.0.
 ### [RepRap.org Wiki Page](https://reprap.org/wiki/Marlin)
 
 ## Credits
-
+- Rapsodyv [https://github.com/rhapsodyv]
 The current Marlin dev team consists of:
- - Rapsodyv [[https://github.com/rhapsodyv]]
  - Scott Lahteine [[@thinkyhead](https://github.com/thinkyhead)] - USA &nbsp; [Donate](https://www.thinkyhead.com/donate-to-marlin) / Flattr: [![Flattr Scott](https://api.flattr.com/button/flattr-badge-small.png)](https://flattr.com/submit/auto?user_id=thinkyhead&url=https://github.com/MarlinFirmware/Marlin&title=Marlin&language=&tags=github&category=software)
  - Roxanne Neufeld [[@Roxy-3D](https://github.com/Roxy-3D)] - USA
  - Chris Pepper [[@p3p](https://github.com/p3p)] - UK
