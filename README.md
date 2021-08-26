@@ -1,5 +1,4 @@
-# This repository is just a copy of the official Marlin, with Tronxy X5SA (and variants) pre-configured.
-
+# This repository is just a copy of the official Marlin, with Tronxy X5SA (and variants) pre-configured forked from https://github.com/rhapsodyv/Marlin. I made some changes in configuration.h file needed from my Tronxy X5SA. All credits goes to https://github.com/rhapsodyv
 _Right now, this repo don't work with marlin auto build_
 
 ## JUST uncomment the option for your machine
@@ -143,9 +142,8 @@ Proposed patches should be submitted as a Pull Request against the ([bugfix-2.0.
 ### [RepRap.org Wiki Page](https://reprap.org/wiki/Marlin)
 
 ## Credits
-
-The current Marlin dev team consists of:
-
+- Rapsodyv [https://github.com/rhapsodyv]
+- The current Marlin dev team consists of:
  - Scott Lahteine [[@thinkyhead](https://github.com/thinkyhead)] - USA &nbsp; [Donate](https://www.thinkyhead.com/donate-to-marlin) / Flattr: [![Flattr Scott](https://api.flattr.com/button/flattr-badge-small.png)](https://flattr.com/submit/auto?user_id=thinkyhead&url=https://github.com/MarlinFirmware/Marlin&title=Marlin&language=&tags=github&category=software)
  - Roxanne Neufeld [[@Roxy-3D](https://github.com/Roxy-3D)] - USA
  - Chris Pepper [[@p3p](https://github.com/p3p)] - UK
